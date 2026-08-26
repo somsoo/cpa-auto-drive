@@ -1,0 +1,8 @@
+﻿title: "오토 앤 드라이브 마스터"
+description: "신차 구매, 장기렌트, 자동차 보험 및 운전자 필수 정보를 제공합니다."
+url: "https://car.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
